@@ -1,0 +1,219 @@
+@media only screen and (max-width: 500px) {
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  #page-1 {
+    box-sizing: border-box;
+    background-color: blue;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    /* border: 2px solid red; */
+    padding: 45% 10%;
+    color: white;
+  }
+
+  #page-1 > h1 {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+  }
+
+  #page-1 > div > .btn {
+    background-color: white;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    /* justify-content: center;
+  align-items: center; */
+    padding: 1%;
+    position: absolute;
+    top: 60%;
+    height: 3%;
+    left: 45%;
+    border: 2px solid green;
+    /* z-index: 1; */
+  }
+
+  #page-1 > div > .btn:hover {
+    background-color: black;
+    color: white;
+  }
+
+  #page-2 {
+    box-sizing: border-box;
+    background-color: tomato;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    /* border: 2px solid red; */
+    padding: 45% 10%;
+    color: white;
+  }
+
+  #page-2 > h1 {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+  }
+
+  #page-2 > div > .btn {
+    background-color: white;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    /* justify-content: center;
+    align-items: center; */
+    padding: 1%;
+    position: absolute;
+    top: 60%;
+    height: 3%;
+    left: 45%;
+    border: 2px solid green;
+    /* z-index: 1; */
+  }
+
+  #page-2 > div > .btn-dark {
+    background-color: white;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    /* justify-content: center;
+      align-items: center; */
+    padding: 1%;
+    position: absolute;
+    top: 60%;
+    height: 3%;
+    left: 33%;
+    /* border: 2px solid green; */
+    /* z-index: 1; */
+  }
+  #page-2 > div > .btn:hover {
+    background-color: black;
+    color: white;
+  }
+
+  #page-2 > div > .btn-dark:hover {
+    background-color: black;
+    color: white;
+  }
+
+  #page-3 {
+    box-sizing: border-box;
+    background-color: skyblue;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    /* border: 2px solid red; */
+    padding: 45% 10%;
+    color: white;
+  }
+
+  #page-3 > h1 {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+  }
+
+  #page-3 > div > .btn {
+    background-color: white;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    /* justify-content: center;
+      align-items: center; */
+    padding: 1%;
+    position: absolute;
+    top: 60%;
+    height: 3%;
+    left: 45%;
+    border: 2px solid green;
+    /* z-index: 1; */
+  }
+
+  #page-3 > div > .btn-dark {
+    background-color: white;
+    color: black;
+    text-align: center;
+    /* color: red; */
+    text-decoration: none;
+    /* justify-content: center;
+        align-items: center; */
+    padding: 1%;
+    position: absolute;
+    top: 60%;
+    height: 3%;
+    left: 33%;
+    /* border: 2px solid green; */
+    z-index: 1;
+  }
+  #page-3 > div > .btn:hover {
+    background-color: black;
+    color: white;
+  }
+
+  #page-3 > div > .btn-dark:hover {
+    background-color: black;
+    color: white;
+  }
+
+  #page-4 {
+    box-sizing: border-box;
+    background-color: violet;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    /* border: 2px solid red; */
+    padding: 45% 10%;
+    color: white;
+  }
+
+  #page-4 > h1 {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+  }
+
+  #page-4 > div > .btn {
+    background-color: white;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    /* justify-content: center;
+        align-items: center; */
+    padding: 1%;
+    position: absolute;
+    top: 60%;
+    height: 3%;
+    left: 45%;
+    border: 2px solid green;
+    /* z-index: 1; */
+  }
+
+  div > .btn-dark {
+    background-color: white;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    /* justify-content: center;
+          align-items: center; */
+    padding: 1%;
+    position: absolute;
+    top: 156.6%;
+    height: 3%;
+    left: 33%;
+    border: 2px solid green;
+    /* z-index: 1; */
+  }
+  #page-4 > div > .btn:hover {
+    background-color: black;
+    color: white;
+  }
+
+  div > .btn-dark:hover {
+    background-color: black;
+    color: white;
+  }
+}
